@@ -1,0 +1,15 @@
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\Interop.FOXITREADERLib.dll
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\AxInterop.FOXITREADERLib.dll
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\vbHTML editor.vbproj.ResolveComReference.cache
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\bin\Debug\vbHTML editor.exe
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\bin\Debug\vbHTML editor.pdb
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\bin\Debug\vbHTML editor.xml
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\bin\Debug\Interop.FOXITREADERLib.dll
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\bin\Debug\AxInterop.FOXITREADERLib.dll
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\vbHTML_editor.Resources.resources
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\vbHTML editor.vbproj.GenerateResource.Cache
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\vbHTML editor.exe
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\vbHTML editor.xml
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\vbHTML editor.pdb
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\vbHTML_editor.frmWebBrowser.resources
+C:\Users\Hades\documents\visual studio 2010\Projects\vbHTML editor\vbHTML editor\obj\x86\Debug\vbHTML_editor.frmHtmlEditor.resources

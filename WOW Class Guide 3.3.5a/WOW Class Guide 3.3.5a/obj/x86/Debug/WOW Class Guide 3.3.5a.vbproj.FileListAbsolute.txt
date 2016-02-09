@@ -1,0 +1,22 @@
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\bin\Debug\WOW Class Guide 3.3.5a.exe
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\bin\Debug\WOW Class Guide 3.3.5a.pdb
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\bin\Debug\WOW Class Guide 3.3.5a.xml
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW_Class_Guide_3._3._5a.frmMain.resources
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW_Class_Guide_3._3._5a.Resources.resources
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW Class Guide 3.3.5a.vbproj.GenerateResource.Cache
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW Class Guide 3.3.5a.exe
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW Class Guide 3.3.5a.xml
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW Class Guide 3.3.5a.pdb
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW_Class_Guide_3._3._5a.SplashScreen1.resources
+C:\Users\Hades\AppData\Local\Temporary Projects\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW_Class_Guide_3._3._5a.frmViewImage.resources
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW Class Guide 3.3.5a.exe
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW Class Guide 3.3.5a.xml
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW Class Guide 3.3.5a.pdb
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\bin\Debug\WOW Class Guide 3.3.5a.exe
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\bin\Debug\WOW Class Guide 3.3.5a.pdb
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\bin\Debug\WOW Class Guide 3.3.5a.xml
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW_Class_Guide_3._3._5a.frmMain.resources
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW_Class_Guide_3._3._5a.frmViewImage.resources
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW_Class_Guide_3._3._5a.Resources.resources
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW_Class_Guide_3._3._5a.SplashScreen1.resources
+C:\Users\Hades\documents\visual studio 2010\Projects\WOW Class Guide 3.3.5a\WOW Class Guide 3.3.5a\obj\x86\Debug\WOW Class Guide 3.3.5a.vbproj.GenerateResource.Cache

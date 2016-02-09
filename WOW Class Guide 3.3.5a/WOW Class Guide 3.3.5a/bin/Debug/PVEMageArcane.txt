@@ -1,0 +1,149 @@
+GLYPHS
+======
+
+Glyph of Arcane Missiles
+Glyph of Arcane Blast
+Glyph of Molten Armor
+___________________________________________________________________________________________________________
+
+Rotation (Basics Only)
+
+Single Target(mana efficient): 3xArcane Blast >> Arcane Missiles on Missile Barrage proc
+Single Target(no mana worries): 4xArcane Blast >> Arcane Missiles on Missile Barrage proc
+AOE : Blizzard
+___________________________________________________________________________________________________________
+
+RACE
+=====
+
+Horde/
+	Undead    :Will of the Forsaken (CC breaker on some bosses)
+	Troll      :Berserking (Cast Speed CD)
+	Blood Elf :Arcane Torrent(Mana) and Highest Base Intellect(little extra crit)
+	
+	Overall the best race for PVE is Troll
+
+Alliance/
+	Human   :Increased Spirit(More crit with Molten Armor)
+	Gnome   :Increased Int (more crit)
+	Draenei :Increase Raid Hit by 1%
+	
+	Gnome or Draenei best choices for Alliance.
+	Human best race for spirit stacked mages.
+___________________________________________________________________________________________________________
+
+Hit Raiting
+===========
+Hard Soft
+ 11%  8% Arcane
+ 17% 14% TTW Fire
+ 14% 11% LB FFB
+ 
+ 1% = 26.232 Rating
+ 8% = 210 rating
+11% = 289 rating
+14% = 368 rating
+17% = 446 rating
+___________________________________________________________________________________________________________
+
+Critical Strike Rating
+======================
+1% crit = 45.91 Crit Rating
+___________________________________________________________________________________________________________
+
+Haste Rating
+============
+1% haste = 32.79 Haste Rating
+___________________________________________________________________________________________________________
+
+Intellect
+=========
+1% crit = 166.66 Int
+___________________________________________________________________________________________________________
+
+Spirit
+======
+1 Crit Rating = 1.43 spirit
+(1% crit = 65.65 Spirit)
+___________________________________________________________________________________________________________
+
+Potions
+=======
+Potion of Speed
+Potion of Wild Magic
+___________________________________________________________________________________________________________
+
+Scrolls
+=======
+Scroll of Spirit Vll
+___________________________________________________________________________________________________________
+
+Flaks/Elixers
+=============
+Flask of the Frost Wyrm
+Elixer of Deadly Strikes
+Elixer of Spirit
+___________________________________________________________________________________________________________
+
+ENCHANTS
+========
+*Note* These are without taking into consideration profession choices listed.
+
+Head Slot: 30 SP and 20 Crit Rating, Arcanum or Burning Mysteries, From Kirin Tor Reputation Vendor (Revered).
+
+Shoulders Slot: 24 SP and 15 Crit Rating. Greater Inscription of the Storm, From The Sons of Hodir Reputation Vendor (Exalted).
+
+Back Slot: 23 Haste. Standard Enchant.
+
+Chest Slot: 10 to all Base Stats. Standard Enchant.
+
+Wrist Slot: 30 SP. Standard Enchant.
+
+Hand Slot: 28 SP. Standard Enchant.
+
+Waist Slot: +1 Gem Slot. Eternal Belt Buckle, From a Blacksmith.
+
+Legs: 50 SP and 20 Spirit. Brilliant Spellthread, From a Tailor.
+
+Feet: 12 Crit Rating and 12 Hit rating, OR 18 Spirit. This depends on if you are hit capped or not. (18 spirit is minorly better than
+
+12 Crit rating assuming the Hit rating has no value)
+**SITUATIONAL: Tuskarr's Vitality, This enchant will actually give more dps during certain fights, namely high movement fights because it allows for more time to cast. It also gives extra survival which should not be overlooked either (dying = 0 dps).
+Weapon: 63 SP, 81 SP or Black Magic. 81 SP always if using a staff. 63 SP for 1 handed weapons. Black Magic can be used for Arcane spec. Black Magic effectively gives ~71 Haste assuming it procs at end of ICD. Generally Black Magic enchant should be used for the benchmarks described above.
+___________________________________________________________________________________________________________
+
+Gemming
+=======
+
+Meta Gem :Chaotic Skyflare Diamon
+
+If low on haste:
+	Red Socket    :Reckless Ametrine
+	Yellow Socket :Reckless Ametrine
+	Blue Socket   :Purified Dreadstone
+	
+If fine on haste:
+	Red Socket    :Rune Cardinal Ruby
+	Yellow Socket :Reckless Ametrine
+	Blue Socket   :Purified Dreadstone
+___________________________________________________________________________________________________________
+
+Stat Priority
+=============
+
+Hit to cap > SP=Haste > Crit > Spirit > Intellect
+___________________________________________________________________________________________________________
+
+Addons
+======
+>> Mage Nuggets
+>> Decursive
+>> Quartz
+>> IceHUD
+
+Raid Addons
+===========
+>> Omen Threat Meter
+>> Recount or Skada DPS meters
+>> DBM etc Raid Announcer
+___________________________________________________________________________________________________________

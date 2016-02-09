@@ -1,0 +1,50 @@
+Enchants
+========
+Head - Arcanum of Torment
+Shoulders - Greater Inscription of the Axe
+Chest - Powerful Stats
+Cloak - Major Agility
+Wrist - Greater Assault
+Hands - Crusher
+Legs - Icescale Leg Armor
+Boots - Greater Assault
+Weapon - Berserking
+
+I won't cover all profession specific enchants, but if you have the profession, you should know what they are. If you deem them better, then by all means, use them.
+________________________________________________________________________________________________________________________
+Glyphs
+=======
+Major glyphs :
+==============
+Glyph of Judgement
+Glyph of Consecration
+Glyph of Seal of Vengeance
+
+Minor glyphs:
+=============
+Glyph of Sense Undead
+Glyph of Lay on Hands (Note that the tooltip is not accurate. LOL)
+Glyph of Blessing of Might or Glyph of Blessing of Kings (or whatever. This third glyph is entirely optional.)
+________________________________________________________________________________________________________________________
+Gems
+====
+Meta - Relentless Earthsiege Diamond
+- Why? - Two reasons. First of all, as already discussed, agility grants a great deal of crit to you. Second, your only other real alternative is basically the same thing, but it requires 2 blue gems. That holds you back on half a red gem. You can activate this meta with a single Nightmare Tear, whereas the other you cannot. Thus allowing you to further increase your DPS slightly.
+
+Nightmare Tear 
+Always have one of these to activate your meta gem. ALWAYS
+
+Bold Cardinal Ruby 
+Aside from your meta gem and Nightmare Tear, you will gem these in all of your available sockets. Socket bonuses do not matter in most cases. This gem setup is proven to maximize DPS. The only exceptions is when you have a +6 or +8 strength socket bonus and no blue gems required, unless you wish to place your Nightmare Tear in that blue socket.
+
+Other useful gems include: 
+Inscribed Ametrine - (Used to achieve good socket bonuses only after you are hit and expertise capped.)
+Etched Ametrine - (Only used to reach the hit rating cap if you are not already capped.)
+Precise Cardinal Ruby - (Only used to reach the expertise cap if you are not already capped.)
+
+I have full BiS Retribution gear. How do I gem it? 
+This implies full 277ilvl or higher gears. None non-heroic items.
+Chest armor - 1x Nightmare Tear and 1x Bold Cardinal Ruby
+Gauntlets - 1x Bold Cardinal Ruby and 1x Inscribed Ametrine
+All other sockets receive pure strength gems, excluding the meta gem, of course.
+________________________________________________________________________________________________________________________

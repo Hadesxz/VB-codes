@@ -1,0 +1,51 @@
+ PRIORITY STATS :
+=================
+SPELL POWER > INTELLECT > CRIT > HASTE > RESILIENCE 
+________________________________________________________________________________________________________________________
+
+MAJOR GLYPHS :
+==============
+Glyph of Flash of Light - Your Flash of Light has an additional 5% critical strike chance. 
+Glyph of Holy Shock - Reduces the cooldown of Holy Shock by 1 sec.
+Glyph of the Judgment - Your Judgements deal 10% more damage.
+
+MINOR GLYPHS :
+==============
+Glyph of Lay on Hands  - Permanently teaches you this glyph. Reduces the cooldown of your Lay on Hands spell by 2 min.
+Glyph of Sense Undead  - Damage against Undead increased by 1% while your Sense Undead ability is active.
+Glyph of Blessing of Kings  - Reduces the mana cost of your Blessing of Kings and Greater Blessing of Kings spells by 50%.
+________________________________________________________________________________________________________________________
+
+ENCHANTS :
+==========
+Head: [Arcanum of Dominance] (+29 spell power, +20 resilience rating)
+
+Shoulders: [Inscription of Dominance] (+23 spell power, +15 resilience rating)
+
+Cloak: Enchant Cloak - Greater Speed (+23 Haste)
+
+Chest: Enchant Chest - Powerful Stats Permanently enchant chest armor to increase all stats by 10.
+
+Bracers: Enchant Bracers - Superior Spellpower - Permanently enchant bracers to increase spell power by 30.
+
+Shield: Enchant Shield - Greater Intellect - Permanently enchant a shield to give 25 intellect. 
+
+Boots: tuskarr's vitality  - Permanently enchants boots to give a minor movement speed increase (8%) and 15 Stamina.
+
+Legs: Sapphire Spellthread -  Permanently embroiders spellthread into pants, increasing spell power by 50 and Stamina by 30. 
+
+Belt - Eternal Belt Buckle - Permanently attach an eternal belt buckle onto a belt, adding a socket to the belt.
+
+Gloves: Enchant Gloves - Exceptional Spellpower - Permanently enchant gloves to increase spell power by 28.
+
+Weapon :  Enchant Weapon - Mighty Spellpower - Permanently enchant a melee weapon to increase spell power by 63.
+________________________________________________________________________________________________________________________
+
+GEMS : 
+======
+META :  Insightful Earthsiege Diamond (+21 Intellect and Chance to restore mana on spellcast)
+YELLOW :  Brilliant King's Amber  (+20 Intellect)
+RED :  Luminous Ametrine (+12 Spell Power and +10 intellect)
+BLUE : Dazzling Eye of Zul (+10 Intellect and +5 Mana every 5 seconds)
+BELT EXTRA SOCKET : Nightmare Tear (+10 All Stats)
+________________________________________________________________________________________________________________________

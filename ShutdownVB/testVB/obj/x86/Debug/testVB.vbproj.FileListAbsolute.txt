@@ -1,0 +1,21 @@
+C:\Users\Hades\AppData\Local\Temporary Projects\testVB\obj\x86\Debug\testVB.Form1.resources
+C:\Users\Hades\AppData\Local\Temporary Projects\testVB\obj\x86\Debug\testVB.Resources.resources
+C:\Users\Hades\AppData\Local\Temporary Projects\testVB\obj\x86\Debug\testVB.vbproj.GenerateResource.Cache
+C:\Users\Hades\documents\visual studio 2010\Projects\testVB\testVB\bin\Debug\testVB.exe
+C:\Users\Hades\documents\visual studio 2010\Projects\testVB\testVB\bin\Debug\testVB.pdb
+C:\Users\Hades\documents\visual studio 2010\Projects\testVB\testVB\bin\Debug\testVB.xml
+C:\Users\Hades\documents\visual studio 2010\Projects\testVB\testVB\obj\x86\Debug\testVB.Resources.resources
+C:\Users\Hades\documents\visual studio 2010\Projects\testVB\testVB\obj\x86\Debug\testVB.vbproj.GenerateResource.Cache
+C:\Users\Hades\documents\visual studio 2010\Projects\testVB\testVB\obj\x86\Debug\testVB.exe
+C:\Users\Hades\documents\visual studio 2010\Projects\testVB\testVB\obj\x86\Debug\testVB.xml
+C:\Users\Hades\documents\visual studio 2010\Projects\testVB\testVB\obj\x86\Debug\testVB.pdb
+C:\Users\Hades\documents\visual studio 2010\Projects\testVB\testVB\obj\x86\Debug\testVB.frm1.resources
+C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\obj\x86\Debug\testVB.exe
+C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\obj\x86\Debug\testVB.xml
+C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\obj\x86\Debug\testVB.pdb
+C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\bin\Debug\testVB.exe
+C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\bin\Debug\testVB.pdb
+C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\bin\Debug\testVB.xml
+C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\obj\x86\Debug\testVB.frm1.resources
+C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\obj\x86\Debug\testVB.Resources.resources
+C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\obj\x86\Debug\testVB.vbproj.GenerateResource.Cache

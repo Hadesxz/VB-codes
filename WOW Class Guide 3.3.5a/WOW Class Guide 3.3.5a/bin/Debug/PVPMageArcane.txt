@@ -1,0 +1,54 @@
+Major GLYPHS
+============
+Glyph of Evocation
+Glyph of Arcane Missiles
+Glyph of Arcane Blast
+
+Minor GLYPHS
+============
+Glyph of Slowfall
+Glyph of Fireward
+Glyph of Frostward
+__________________________________________________________________________________________________________
+
+Priority Stats
+==============
+ Hit cap = 5%, Spell Penetration cap = 130
+ Spell Power > Crit > Haste > Spirit > Intellect
+__________________________________________________________________________________________________________
+ 
+Gems
+====
+Meta   :Chatotic Skyflare Diamond (+23 crit rating and 3% increased damaged)
+Red    :Runed Cardinal Ruby (+23 spell power)
+Yellow :Quick King's Amber (+20 haste) / Mystic King's Amber (+20 resilence)
+Blue   :Stormy Majestic Zircon (+25 spell penetration)
+
+Red/Yellow :Reckless Amertrine (+12 spell power & 10 haste)
+Blue/Red   :Mysterious Dreradstone (+12 spell power and 13 spell penetration)
+__________________________________________________________________________________________________________
+
+Enchants
+========
+Head : Arcanum of Dominance (Permanently adds 29 spell power and 20 resilience rating to a head slot item.)
+
+Shoulder : enchant-Inscription of Dominance (Permanently adds 23 spell power and 15 resilience rating to a shoulder slot item. )
+
+Chest : Enchant Chest - Exceptional Resilience  (Permanently enchant chest armor to increase resilience rating by 20.)
+
+Leggings :  Sapphire Spellthread (Permanently embroiders spellthread into pants, increasing spell power by 50 and Stamina by 30.)
+
+Bracer : Enchant Bracers (Superior Spellpower - Permanently enchant bracers to increase spell power by 30.)
+
+Glove : Enchant Gloves - Exceptional Spellpower - Permanently enchant gloves to increase spell power by 28.
+
+Belt : Eternal Belt Buckle (Permanently attach an eternal belt buckle onto a belt, adding a socket to the belt.)
+
+Boot : enchant-Enchant Boots - Tuskarr's Vitality (Permanently enchants boots to give a minor movement speed increase (8%) and 15 Stamina.)
+
+Cloak : Enchant Cloak - Spell Piercing (Permanently enchant a cloak to increase spell penetration by 35.)
+
+Weapon : enchant ( 1H ) - Enchant Weapon - Mighty Spellpower (Permanently enchant a melee weapon to increase spell power by 63.)
+__________________________________________________________________________________________________________
+
+

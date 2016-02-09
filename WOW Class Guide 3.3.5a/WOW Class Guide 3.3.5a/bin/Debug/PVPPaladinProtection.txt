@@ -1,0 +1,49 @@
+PRIORITY STATS :
+================  
+Hit cap = 5% 
+Strenght > Agility > Attack Power > Crit > Resilience > Haste > Intellect
+________________________________________________________________________________________________________________________
+
+MAJOR GLYPHS :
+==============
+Glyph of Avenger's Shield // Your Avenger's Shield hits 2 fewer targets, but for 100% more damage. 
+Glyph of Divine Plea  // While Divine Plea is active, you take 3% reduced damage from all sources.
+Glyph of Judgement // Your Judgement deal 10% more damage.
+
+MINOR GLYPHS  : 
+===============
+Glyph of the Wise // Reduces the Mana cost of your Seal of Wisdom spell by 50%.
+Glyph of Blessing of Kings // Reduces the mana cost of your Blessing of Kings and Greater Blessing of Kings spells by 50%.
+Glyph of Sense Undead // Damage against Undead increased by 1% while your Sense Undead ability is active.
+________________________________________________________________________________________________________________________
+GEMS :
+======
+META : Relentless Earthsiege Diamond // +21 Agility and 3% Increased Critical Damage
+RED: Bold Cardinal Ruby  // +20 strength
+YELLOW: Resplendent Ametrine  // +10 strength, +10 resilience
+BLUE : Sovereign Dreadstone // +10 Strength and +15 Stamina
+
+ENCHANTS :
+==========
+Head - Arcanum of Torment - Permanently adds 50 attack power and 20 critical strike rating to a head slot item.
+- or - Arcanum of Triumph  -  Permanently adds 50 attack power and 20 resilience rating to a head slot item. 
+
+Shoulders - Greater Inscription of the Axe - Permanently adds 40 attack power and 15 critical strike rating to a shoulder slot item.
+- or - Inscription of Triumph - Permanently adds 40 attack power and 15 resilience rating to a shoulder slot item.
+
+Cloak - Major Agility -  Permanently enchant a cloak to increase Agility by 22. 
+
+Chest - Powerful Stats - Permanently enchant chest armor to increase all stats by 10.
+
+Bracers - Greater Assault - Permanently enchant bracers to increase attack power by 50.
+
+Hands - Crusher - Permanently enchant gloves to increase attack power by 44.
+
+Belt - Eternal Belt Buckle - Permanently attach an eternal belt buckle onto a belt, adding a socket to the belt. 
+
+Legs - Icescale Leg Armor -  Permanently attach icescale armor onto pants to increase attack power by 75 and critical strike rating by 22.
+
+Boots - Greater Assault - Permanently enchant boots to increase attack power by 32. 
+
+Weapon - Berserking - Permanently enchant a melee weapon to sometimes increase your attack power by 400, but at the cost of reduced armor.
+________________________________________________________________________________________________________________________

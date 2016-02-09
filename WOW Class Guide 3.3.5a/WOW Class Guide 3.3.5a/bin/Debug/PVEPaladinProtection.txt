@@ -1,0 +1,58 @@
+Priority Stats : 
+================
+Strength > Stamina >  Hit 5% cap > Agility  > Defence > Dodge > Block > Parry > Intellect
+________________________________________________________________________________________________________________________
+
+Major Glyphs :
+==============
+Glyph of Spiritual Attunement  << Increases the amount of mana gained from your Spiritual Attunement spell by an additional 2%
+Glyph of Divine Plea  << While Divine Plea is active, you take 3% reducd damage from all sources.
+Glyph of Hammer of the Righteous  << Your Hammer of the Righteous hits 1 additional target.
+
+Minor Glyphs :
+==============
+Glyph of Sense Undead  << Damage against Undead increased by 1% while your Sense Undead ability is active.
+Glyph of Kings  << Reduces the mana cost of your Blessing of Kings and Greater Blessing of Kings spells by 50%
+Glyph of Lay on Hands  << Reduces the cooldown of your Lay on Hands spell by 5 min.
+________________________________________________________________________________________________________________________
+
+Enchant :
+=========
+datasource for enchant : forum:molten-wow.com
+
+Head: Arcanum of the Stalwart Protector
+
+Shoulder: Greater Inscription of the Pinnacle or Greater Inscription of the Gladiator 
+
+Chest: Enchant Chest - Powerful Stats or Enchant Chest - Super Health
+
+Enchant Chest - Defense
+
+Hands: Enchant Gloves - Armsman
+
+Feet: Enchant Boots - Greater Fortitude.
+
+Boots: Enchant Boots - Tuskar's Vitality
+
+Legs: Frosthide Leg Armor
+
+Wrist: Enchant Brecers - Major Stamina
+
+Belt : buckle " for extra gem slot on belt "
+
+Cloak: Enchant Cloak - Titanweave
+
+If your Def Caped then Enchant Cloak - Mighty Armor
+
+Shield: Enchant Shield - Defense
+
+Weapon: Enchant Weapon - Blade Ward , Enchant Weapon - Blood Draining 
+________________________________________________________________________________________________________________________
+Gems : 
+======
+Red : Regal Dreadstone +10 Dodge Rating and +15 Stamina  /  Defender's Dreadstone+10 Parry Rating and +15 Stamina
+Blue: Solid Majestic Zircon +30 Stamina
+Yellow: Thick King's Amber +20 Defense Rating
+Meta : Austere Earthsiege Diamond - +32 Stamina and 2% Increased Armor Value from Items
+Gem slot from Belt : Nightmare Tear +10 All Stats
+________________________________________________________________________________________________________________________
