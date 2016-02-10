@@ -16,3 +16,13 @@ C:\Users\Hades\documents\visual studio 2010\Projects\2016020901vbSnakes and Ladd
 C:\Users\Hades\documents\visual studio 2010\Projects\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\2016020901vbSnakes and Ladders Game.exe
 C:\Users\Hades\documents\visual studio 2010\Projects\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\2016020901vbSnakes and Ladders Game.xml
 C:\Users\Hades\documents\visual studio 2010\Projects\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\2016020901vbSnakes and Ladders Game.pdb
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\2016020901vbSnakes and Ladders Game.exe
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\2016020901vbSnakes and Ladders Game.xml
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\2016020901vbSnakes and Ladders Game.pdb
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\bin\Debug\2016020901vbSnakes and Ladders Game.exe
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\bin\Debug\2016020901vbSnakes and Ladders Game.pdb
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\bin\Debug\2016020901vbSnakes and Ladders Game.xml
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\_2016020901vbSnakes_and_Ladders_Game.Resources.resources
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\2016020901vbSnakes and Ladders Game.vbproj.GenerateResource.Cache
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\_2016020901vbSnakes_and_Ladders_Game.frmSetting.resources
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\_2016020901vbSnakes_and_Ladders_Game.frmMain.resources
