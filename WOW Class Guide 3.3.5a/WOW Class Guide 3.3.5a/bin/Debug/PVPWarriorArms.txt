@@ -1,0 +1,50 @@
+PRIORITY STATS : 
+================
+HIT cap = 5%, Expertise cap = 26 
+
+  STRENGTH > ARMOR PENETRATION > ATTACK POWER  > CRIT > RESILIENCE > STAMINA
+___________________________________________________________________________________________________________________________
+
+MAJOR GLYPHS :
+==============
+Glyph of Overpower  - Adds a 100% chance to enable your Overpower when your attacks are parried.
+Glyph of Mortal Strike - Increases the damage of your Mortal Strike ability by 10%
+Glyph of Rending - Increases the duration of your rend ability by 6 seconds.
+
+MINOR GLYPHS : 
+==============
+Glyph of Battle - Increases the duration of your Battle Should ability by 2 minutes.
+Glyph of BloodRage - Reduces the health cost of your Bloodrage ability by 100%
+Glyph of Thunder Clap  - Increases the range of your Thunder Clap ability by 2 yards.
+___________________________________________________________________________________________________________________________
+
+GEMS : 
+======
+META : [Eternal Earthsiege Diamond] +21 Defense Rating +5% Shield Block Value OR [Swift Skyflare Diamond]  - +42 Attack Power Minor Run Speed Increase
+RED : Fractured Cardinal Ruby - +20 Armor Penetration Rating
+RED : Bold Cardinal Ruby  - +20 Strength
+YELLOW : Rigid King's Amber -  +20 Hit Rating ( if hit cap still not reach ) 
+YELLOW :  Mystic King's Amber  - +20 Resilience Rating
+BLUE : Solid Majestic Zircon  -  +30 Stamina
+___________________________________________________________________________________________________________________________
+
+ENCHANTS : 
+==========
+Head: Arcanum of Torment (requires Knights of the Ebon Blade - Revered) - Permanently adds 50 attack power and 20 critical strike rating to a head slot item.
+
+Shoulders: Greater Inscription of the Axe (requires The Sons of Hodir - Exalted) - Permanently adds 40 attack power and 15 critical strike rating to a shoulder 
+slot item.
+Cloak: Major Agility - Permanently enchant a cloak to increase Agility by 22.
+
+Chest: Powerful Stats - Permanently enchant chest armor to increase all stats by 10.
+
+Wrist: Greater Assault - Permanently enchant bracers to increase attack power by 50.
+
+Hands: Crusher - Permanently enchant gloves to increase attack power by 44. 
+
+Legs: Icescale Leg Armor - Permanently attach icescale armor onto pants to increase attack power by 75 and critical strike rating by 22.
+
+Feet: Greater Assault - Permanently enchant boots to increase attack power by 32. Requires a level 60 or higher item.
+
+Weapons: Berserking - Permanently enchant a melee weapon to sometimes increase your attack power by 400, but at the cost of reduced armor.
+___________________________________________________________________________________________________________________________
