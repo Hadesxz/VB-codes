@@ -31,6 +31,8 @@ Partial Class frmSetting
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PictureBox3 = New System.Windows.Forms.PictureBox()
         Me.btnMain = New System.Windows.Forms.Button()
+        Me.btn2p = New System.Windows.Forms.Button()
+        Me.btn3p = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -96,12 +98,30 @@ Partial Class frmSetting
         '
         'btnMain
         '
-        Me.btnMain.Location = New System.Drawing.Point(68, 128)
+        Me.btnMain.Location = New System.Drawing.Point(58, 231)
         Me.btnMain.Name = "btnMain"
         Me.btnMain.Size = New System.Drawing.Size(135, 50)
         Me.btnMain.TabIndex = 6
-        Me.btnMain.Text = "Back To Game"
+        Me.btnMain.Text = "Back To Main"
         Me.btnMain.UseVisualStyleBackColor = True
+        '
+        'btn2p
+        '
+        Me.btn2p.Location = New System.Drawing.Point(73, 58)
+        Me.btn2p.Name = "btn2p"
+        Me.btn2p.Size = New System.Drawing.Size(105, 39)
+        Me.btn2p.TabIndex = 7
+        Me.btn2p.Text = "2 Players"
+        Me.btn2p.UseVisualStyleBackColor = True
+        '
+        'btn3p
+        '
+        Me.btn3p.Location = New System.Drawing.Point(73, 121)
+        Me.btn3p.Name = "btn3p"
+        Me.btn3p.Size = New System.Drawing.Size(105, 39)
+        Me.btn3p.TabIndex = 8
+        Me.btn3p.Text = "3 Players"
+        Me.btn3p.UseVisualStyleBackColor = True
         '
         'frmSetting
         '
@@ -110,6 +130,8 @@ Partial Class frmSetting
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(502, 329)
+        Me.Controls.Add(Me.btn3p)
+        Me.Controls.Add(Me.btn2p)
         Me.Controls.Add(Me.btnMain)
         Me.Controls.Add(Me.PictureBox3)
         Me.Controls.Add(Me.PictureBox2)
@@ -134,4 +156,6 @@ Partial Class frmSetting
     Friend WithEvents PictureBox2 As System.Windows.Forms.PictureBox
     Friend WithEvents PictureBox3 As System.Windows.Forms.PictureBox
     Friend WithEvents btnMain As System.Windows.Forms.Button
+    Friend WithEvents btn2p As System.Windows.Forms.Button
+    Friend WithEvents btn3p As System.Windows.Forms.Button
 End Class

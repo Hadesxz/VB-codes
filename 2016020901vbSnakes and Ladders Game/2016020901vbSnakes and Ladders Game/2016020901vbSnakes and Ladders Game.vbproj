@@ -73,11 +73,17 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
     <Compile Include="frmMain.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmMain.Designer.vb">
-      <DependentUpon>frmMain.vb</DependentUpon>
+    <Compile Include="frmPlay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlay.Designer.vb">
+      <DependentUpon>frmPlay.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmSetting.Designer.vb">
@@ -106,6 +112,9 @@
   <ItemGroup>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlay.resx">
+      <DependentUpon>frmPlay.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSetting.resx">
       <DependentUpon>frmSetting.vb</DependentUpon>

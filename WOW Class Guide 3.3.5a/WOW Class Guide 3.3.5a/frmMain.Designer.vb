@@ -175,6 +175,7 @@ Partial Class frmMain
         Me.Controls.Add(Me.comboxTalent)
         Me.Controls.Add(Me.comboxMode)
         Me.Controls.Add(Me.comboxClass)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmMain"
         Me.Text = "WoW Guide"
         CType(Me.picboxTalent, System.ComponentModel.ISupportInitialize).EndInit()

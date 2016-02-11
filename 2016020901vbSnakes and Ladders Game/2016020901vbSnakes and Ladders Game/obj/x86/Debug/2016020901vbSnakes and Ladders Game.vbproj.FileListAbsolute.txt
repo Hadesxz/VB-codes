@@ -26,3 +26,4 @@ D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders G
 D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\2016020901vbSnakes and Ladders Game.vbproj.GenerateResource.Cache
 D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\_2016020901vbSnakes_and_Ladders_Game.frmSetting.resources
 D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\_2016020901vbSnakes_and_Ladders_Game.frmMain.resources
+D:\VB codes\2016020901vbSnakes and Ladders Game\2016020901vbSnakes and Ladders Game\obj\x86\Debug\_2016020901vbSnakes_and_Ladders_Game.frmPlay.resources
