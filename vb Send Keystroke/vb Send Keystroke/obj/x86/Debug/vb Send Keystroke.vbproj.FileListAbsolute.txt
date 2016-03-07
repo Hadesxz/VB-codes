@@ -1,0 +1,18 @@
+c:\users\hades\documents\visual studio 2010\Projects\vb Send Keystroke\vb Send Keystroke\bin\Debug\vb Send Keystroke.exe
+c:\users\hades\documents\visual studio 2010\Projects\vb Send Keystroke\vb Send Keystroke\bin\Debug\vb Send Keystroke.pdb
+c:\users\hades\documents\visual studio 2010\Projects\vb Send Keystroke\vb Send Keystroke\bin\Debug\vb Send Keystroke.xml
+c:\users\hades\documents\visual studio 2010\Projects\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb_Send_Keystroke.Resources.resources
+c:\users\hades\documents\visual studio 2010\Projects\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb Send Keystroke.vbproj.GenerateResource.Cache
+c:\users\hades\documents\visual studio 2010\Projects\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb Send Keystroke.exe
+c:\users\hades\documents\visual studio 2010\Projects\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb Send Keystroke.xml
+c:\users\hades\documents\visual studio 2010\Projects\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb Send Keystroke.pdb
+C:\Users\Hades\documents\visual studio 2010\Projects\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb_Send_Keystroke.FrmMain.resources
+D:\VB codes\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb Send Keystroke.exe
+D:\VB codes\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb Send Keystroke.xml
+D:\VB codes\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb Send Keystroke.pdb
+D:\VB codes\vb Send Keystroke\vb Send Keystroke\bin\Debug\vb Send Keystroke.exe
+D:\VB codes\vb Send Keystroke\vb Send Keystroke\bin\Debug\vb Send Keystroke.pdb
+D:\VB codes\vb Send Keystroke\vb Send Keystroke\bin\Debug\vb Send Keystroke.xml
+D:\VB codes\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb_Send_Keystroke.FrmMain.resources
+D:\VB codes\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb_Send_Keystroke.Resources.resources
+D:\VB codes\vb Send Keystroke\vb Send Keystroke\obj\x86\Debug\vb Send Keystroke.vbproj.GenerateResource.Cache

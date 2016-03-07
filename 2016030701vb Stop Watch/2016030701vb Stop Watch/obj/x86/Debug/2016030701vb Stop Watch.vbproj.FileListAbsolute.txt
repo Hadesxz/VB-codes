@@ -1,0 +1,9 @@
+D:\VB codes\2016030701vb Stop Watch\2016030701vb Stop Watch\bin\Debug\2016030701vb Stop Watch.exe
+D:\VB codes\2016030701vb Stop Watch\2016030701vb Stop Watch\bin\Debug\2016030701vb Stop Watch.pdb
+D:\VB codes\2016030701vb Stop Watch\2016030701vb Stop Watch\bin\Debug\2016030701vb Stop Watch.xml
+D:\VB codes\2016030701vb Stop Watch\2016030701vb Stop Watch\obj\x86\Debug\_2016030701vb_Stop_Watch.Resources.resources
+D:\VB codes\2016030701vb Stop Watch\2016030701vb Stop Watch\obj\x86\Debug\2016030701vb Stop Watch.vbproj.GenerateResource.Cache
+D:\VB codes\2016030701vb Stop Watch\2016030701vb Stop Watch\obj\x86\Debug\2016030701vb Stop Watch.exe
+D:\VB codes\2016030701vb Stop Watch\2016030701vb Stop Watch\obj\x86\Debug\2016030701vb Stop Watch.xml
+D:\VB codes\2016030701vb Stop Watch\2016030701vb Stop Watch\obj\x86\Debug\2016030701vb Stop Watch.pdb
+D:\VB codes\2016030701vb Stop Watch\2016030701vb Stop Watch\obj\x86\Debug\_2016030701vb_Stop_Watch.frmStopWatch.resources

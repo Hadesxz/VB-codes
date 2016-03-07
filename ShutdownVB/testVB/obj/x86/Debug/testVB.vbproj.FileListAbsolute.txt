@@ -19,3 +19,12 @@ C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\bin\Debug
 C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\obj\x86\Debug\testVB.frm1.resources
 C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\obj\x86\Debug\testVB.Resources.resources
 C:\Users\Hades\Documents\Visual Studio 2010\Projects\ShutdownVB\testVB\obj\x86\Debug\testVB.vbproj.GenerateResource.Cache
+D:\VB codes\ShutdownVB\testVB\obj\x86\Debug\testVB.exe
+D:\VB codes\ShutdownVB\testVB\obj\x86\Debug\testVB.xml
+D:\VB codes\ShutdownVB\testVB\obj\x86\Debug\testVB.pdb
+D:\VB codes\ShutdownVB\testVB\bin\Debug\testVB.exe
+D:\VB codes\ShutdownVB\testVB\bin\Debug\testVB.pdb
+D:\VB codes\ShutdownVB\testVB\bin\Debug\testVB.xml
+D:\VB codes\ShutdownVB\testVB\obj\x86\Debug\testVB.frm1.resources
+D:\VB codes\ShutdownVB\testVB\obj\x86\Debug\testVB.Resources.resources
+D:\VB codes\ShutdownVB\testVB\obj\x86\Debug\testVB.vbproj.GenerateResource.Cache
